@@ -75,7 +75,7 @@ function Nav() {
   href="/home"
 >
   
-  <div className=" mmh text-lg mx-3">Finder</div>
+  <div className=" mmh text-lg mx-3">Ondetails</div>
 </a>
 </div>
   <button

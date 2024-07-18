@@ -17,7 +17,7 @@ function Login(props) {
   
   var accountAddress = localStorage.getItem("Address");
 
-  const QueryURL="https://gateway-arbitrum.network.thegraph.com/api/120dfe3edd99b1e4c4ad181c441524e4/subgraphs/id/Fq3tBZDWJ27FM1LpKWvyP9cwuzcXPmoAimTybhVfhf76";
+  const QueryURL="https://gateway-arbitrum.network.thegraph.com/api/120dfe3edd99b1e4c4ad181c441524e4/subgraphs/id/AYMzWnwmKdU7qXswBtCBKCUUTTCGLBCuurTkbDMsahUc";
 
 
 
