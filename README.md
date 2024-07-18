@@ -1,7 +1,5 @@
-![Screenshot from 2024-07-18 23-49-51](https://github.com/user-attachments/assets/657ecdb6-6784-46da-88c8-df15410c31f3)
 
-
-![Screenshot from 2024-06-23 06-25-07](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/46d68b83-d9b9-4a8b-b969-b6e875472172)
+![Screenshot from 2024-07-18 23-53-57](https://github.com/user-attachments/assets/70abf732-c796-406b-b442-6186bd0622aa)
 
 
 
