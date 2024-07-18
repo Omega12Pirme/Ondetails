@@ -9,7 +9,7 @@ Ondetails is an One place platform to get all the details of the scroll  domaain
 
 # Frontend : https://ondetails.vercel.app/
 
-# Frame: 
+# Frame:  https://warpcast.com/~/developers/frames?url=https%3A%2F%2Fondetails-23jv.vercel.app%2Fapi
 
 
 ## The  Graph integeration 
