@@ -39,21 +39,19 @@ Ondetails is an One place platform to get all the details of the scroll  domaain
 - Login page : Anyone can put their scroll  domain  name and get the details
 
 
-![Screenshot from 2024-06-23 06-27-24](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/70945d3e-a78e-471a-aeb2-1675a27bd39e)
+![Screenshot from 2024-07-18 23-56-42](https://github.com/user-attachments/assets/5178f624-1c4c-4864-bf82-79aebb031d81)
 
 
 - Domain Name & Address: AFter Login the user will get the domain name and address associated with this with the help of subgraph
 
-
-![Screenshot from 2024-06-23 06-27-55](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/b1c5a7a0-3fdd-432b-8295-c59db6f10f54)
-
+![Screenshot from 2024-07-18 23-57-09](https://github.com/user-attachments/assets/2e07a975-adce-4068-a554-e65c98fd43ed)
 
 
 
 - Balance in the frame: Any user can get the balance of the domain name
 
   
-![Screenshot from 2024-06-23 06-28-59](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/1995cf31-9455-46db-9202-9d5676637a23)
+![Screenshot from 2024-07-18 23-57-33](https://github.com/user-attachments/assets/8f0285ab-cc3d-4f21-af76-a67b978973ac)
 
 
 
@@ -61,7 +59,7 @@ Ondetails is an One place platform to get all the details of the scroll  domaain
 
 
 
-![Screenshot from 2024-06-23 06-30-09](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/e239354e-2ba7-4c28-a899-68a092637866)
+![Screenshot from 2024-07-18 23-58-09](https://github.com/user-attachments/assets/9394b5c4-adae-42a6-a4a5-2566f3cb9b9d)
 
 
 
@@ -69,17 +67,17 @@ Ondetails is an One place platform to get all the details of the scroll  domaain
 
 - Login page : User have to enter the domain name to enter the website
 
-![Screenshot from 2024-06-23 06-33-59](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/2d81befa-f91e-418a-85fc-1131e83bb25e)
+![Screenshot from 2024-07-18 23-58-29](https://github.com/user-attachments/assets/68859485-6d6a-431e-a351-b78e946b9098)
 
 
 - Home page : This is the home page  shown after the Login
 
-![Screenshot from 2024-06-23 06-34-46](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/e12e3932-c41b-40cb-ae22-a4489f202050)
+![Screenshot from 2024-07-18 23-58-50](https://github.com/user-attachments/assets/e6e359bd-8b82-474a-b02c-5fe00642eb79)
 
 
 - Normal transacttion: User can get the normal txn for this domain
 
-![Screenshot from 2024-06-23 06-35-41](https://github.com/Vikash-8090-Yadav/Finder/assets/85225156/834de86b-edae-41e5-84f3-5363770efeac)
+![Screenshot from 2024-07-18 23-59-06](https://github.com/user-attachments/assets/22e3bbb2-da08-4dd3-be1e-a5453fa9059c)
 
 - User Profile: IN this section user can get the info like balance, domain name, and Logout option
 
