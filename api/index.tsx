@@ -78,7 +78,7 @@ app.frame('/', (c) => {
         >
           {status === 'response'
             ? `Nice choice.${fruit ? ` ${fruit.toUpperCase()}!!` : ''}`
-            : 'Welcome  to Finder, Get Domain Activity !'}
+            : 'Welcome  to Ondetails, Get Domain Activity !'}
         </div>
       </div>
     ),
